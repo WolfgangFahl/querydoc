@@ -1,0 +1,2 @@
+# querydoc
+Query documentation service
